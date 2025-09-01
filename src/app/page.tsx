@@ -159,7 +159,7 @@ export default function HomePage() {
             </Button>
             <Button size="lg" variant="outline" asChild>
               <Link
-                href="https://github.com"
+                href="https://github.com/git-dariel/nextserve"
                 target="_blank"
                 rel="noopener noreferrer"
               >
